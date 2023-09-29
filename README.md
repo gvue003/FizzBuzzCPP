@@ -1,2 +1,3 @@
-# FizzBuzzCPP
-DSA FizzBuzz C++
+DSA with FizzBuzz
+
+Language: C++
