@@ -1,3 +1,3 @@
-DSA with FizzBuzz
+DSA: FizzBuzz
 
 Language: C++
